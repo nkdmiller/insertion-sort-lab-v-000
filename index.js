@@ -1,6 +1,7 @@
 function findMinAndRemove(array){
   let min = array[0];
-  let minIndex
+  let minIndex = 0;
+  
 }
 
 function insertionSort(array){
